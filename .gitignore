@@ -1,4 +1,4 @@
-/.vscode
+lib
 /bin
-/lib
-README.md
+/.vscode
+/README.md
